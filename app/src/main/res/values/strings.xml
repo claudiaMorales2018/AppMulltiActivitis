@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Detalles</string>
+    
+    <string name="SOL">
+        Detalles : mpresión, sol naciente es un cuadro del pintor francés Claude Monet,\n
+        que dio su nombre al movimiento impresionista.
+        Se conserva en el Museo Marmottan Monet de París. Pintado aproximadamente en el año 1872, representa el puerto de Le Havre,\n
+        ciudad en la que Monet pasó parte de la vida. La pintura fue robada del museo en 1985 y recuperada en 1990.\n
+        Desde 1991 ha estado de nuevo en exhibición.
+    </string>
+
+    <string name="TORTUGA">
+
+        Detalles:Osman Hamdi Bey creó la pintura durante una \n
+        época de gran agitación social y política en el Imperio otomano.\n
+        Las reformas introducidas por el sultán Abdülhamid II habían demostrado ser ineficaces,\n
+        o habían sido culpadas de aumentar la agitación social.\n
+    </string>
+
+    <string name="FLOR">
+        Detalles: Las flores y las plantas han estado presentes a lo largo de la Historia, \n
+        sus colores vibrantes, su resiliencia y hermosura han inspirado a artistas de todas partes del mundo. \n
+        Es por eso que en esta nueva entrada del blog, te contaré cómo estas musas han estado presentes a lo \n
+        largo de la Historia del Arte.\n
+
+    </string>
+
+    <string name="OBRAS">
+        Detalles: En los tiempos de las más antiguas pinturas chinas a Tijeras si la tradición de paisajes «puros»,\n
+        en los que la diminuta figura humana simplemente invita al observador a participar en la experiencia.\n
+        Del Antiguo Egipto se conservan algunas representaciones de paisajes esquemáticos en las tumbas de los \n
+        nobles, grabadas en relieve durante el Imperio Antiguo y pintadas al fresco en el Imperio Nuevo; \n
+        suelen enmarcar escenas de caza o ceremonias rituales.\n
+    </string>
+
+</resources>
